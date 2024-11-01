@@ -1,0 +1,129 @@
+table.yfq a:link {
+	color:#66a3d3;
+	text-decoration:none;
+	border-bottom:1px dotted #ffbac8;
+	}	
+table.yfq a:visited {
+	color:#66a3d3;
+	text-decoration:none;
+	}
+	
+table.yfq a:hover,
+table.yfq a:focus {
+	color:#f03b58;
+	border-bottom:0.5px solid #f03b58;
+	text-decoration:none;
+	}
+
+table.yfq a.quote:link,
+table.yfq a.quote:visited,
+table.yfq a.quote:hover,
+table.yfq a.quote:focus {
+	color:#678197;
+	text-decoration:underline;
+	border:none;
+	}							
+	
+table.yfq {
+	width:180px;
+	border-top:1px solid #e5eff8;
+	border-bottom: none;
+	margin:1px auto;
+	border-collapse:collapse;
+	}
+
+table.yfq caption {
+	color: #9ba9b4;
+	font:bold 11px Arial;
+		letter-spacing:0.1px;
+		margin:1px 0 0 0;
+		padding:0;
+		caption-side:top;
+		text-align:left;
+	}
+
+table.yfq tr.odd td	{
+	background:#f7fbff;
+	}
+
+table.yfq tr.odd .column1	{
+	background:#f4f9fe;
+	font:10px Arial;
+	text-align:left;
+	}
+
+table.yfq .column1	{
+	background:#f9fcfe;
+	font:10px Arial;
+	text-align:left;
+	}
+table.yfq td {
+	font:10px Arial;
+	color:#678197;
+	border-bottom:1px solid #e5eff8;
+	border-left:1px solid #e5eff8;
+	border-right:1px solid #e5eff8;
+	padding:1px 1px;
+	text-align:right;
+	}	
+	
+table.yfq td.up {
+	font:10px Arial;
+	color:#00c864;
+	border-bottom:1px solid #e5eff8;
+	border-left:1px solid #e5eff8;
+	border-right:1px solid #e5eff8;
+	padding:1px 1px;
+	text-align:right;
+	}	
+
+table.yfq td.down {
+	font:10px Arial;
+	color:#d42945;
+	border-bottom:1px solid #e5eff8;
+	border-left:1px solid #e5eff8;
+	border-right:1px solid #e5eff8;
+	padding:1px 1px;
+	text-align:right;
+	}	
+
+table.yfq td.nc {
+	font:10px Arial;
+	color:#678197;
+	border-bottom:1px solid #e5eff8;
+	border-left:1px solid #e5eff8;
+	border-right:1px solid #e5eff8;
+	padding:1px 1px;
+	text-align:right;
+	}	
+
+table.yfq th {
+	font-weight:normal;
+	color: #678197;
+	text-align:left;
+	border-bottom: 1px solid #e5eff8;
+	border-left:1px solid #e5eff8;
+	border-right:1px solid #e5eff8;
+	padding:1px 1px;
+	}
+	
+table.yfq thead th {
+	font:10px Arial;
+	background:#f4f9fe;
+	text-align:center;
+	color:#66a3d3;
+	}	
+
+table.yfq tfoot th {
+	text-align:center;
+	background:none;
+	border:none;
+	font:9px Arial;
+	}
+
+table.yfq tfoot th em {
+	text-align:center;
+	background:none;
+	border:none;
+	font:8px Arial;
+	}
